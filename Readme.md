@@ -1,6 +1,6 @@
 # GCBStatusDisplay
 
-Version 0.1 – 2013-06-11
+Version 1.0 – 2013-06-18
 
 by Georg C. Brückmann  
 <http://gcbrueckmann.de>
